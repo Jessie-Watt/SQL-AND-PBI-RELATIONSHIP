@@ -49,5 +49,5 @@ The cleaned three data sets were merged together as a new table using the 'Merge
 
 
 # **Conclusion**
-This task has made has given me the insight to the importance of linking SQL Server and Power BI. SQL Server is a powerful database engine that provides robust data storage and management capabilities while Power BI Desktop is a powerful reporting and visualization tool that allows you to create compelling reports on your data. By linking these two tools together, you can create a powerful end-to-end solution for managing and analyzing your data.
+This task has given me the insight to the importance of linking SQL Server and Power BI. SQL Server is a powerful database engine that provides robust data storage and management capabilities while Power BI Desktop is a powerful reporting and visualization tool that allows you to create compelling reports on your data. By linking these two tools together, you can create a powerful end-to-end solution for managing and analyzing your data.
 
